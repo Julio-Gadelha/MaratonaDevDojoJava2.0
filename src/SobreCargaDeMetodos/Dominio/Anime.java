@@ -3,10 +3,10 @@ package SobreCargaDeMetodos.Dominio;
 public class Anime {
     private String nome;
     private String tipo;
-    private  int episodios;
+    private int episodios;
 
 
-    public void imprimi(){
+    public void imprimi() {
         System.out.println(this.nome);
         System.out.println(this.tipo);
         System.out.println(this.episodios);
