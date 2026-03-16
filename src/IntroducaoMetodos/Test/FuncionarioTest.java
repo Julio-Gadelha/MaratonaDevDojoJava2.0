@@ -1,4 +1,4 @@
-package Test;
+package IntroducaoMetodos.Test;
 
 import IntroducaoMetodos.Funcionario;
 
