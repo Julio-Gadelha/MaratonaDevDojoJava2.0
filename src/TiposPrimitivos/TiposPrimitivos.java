@@ -13,6 +13,7 @@ public class TiposPrimitivos {
         short number2 = 98;
         boolean or = true;
         long numeroGrande = 492849;
+        //todos os tipos de variavel onde usamos para armazenar dados
 
     }
 }
