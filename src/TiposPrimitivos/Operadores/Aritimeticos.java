@@ -1,4 +1,4 @@
-package Operadores;
+package TiposPrimitivos.Operadores;
 
 public class Aritimeticos {
     public static void main(String[] args) {
