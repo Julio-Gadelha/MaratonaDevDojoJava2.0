@@ -16,7 +16,8 @@ public class ArraysMultiDimencionais {
 
      for (int i = 0; i < dias.length ; i++) {
          for (int j = 0; j <dias[0].length ; j++) {
-             System.out.println(dias[i][j]);         }
+             System.out.println(dias[i][j]);
+         }
      }
 
 
