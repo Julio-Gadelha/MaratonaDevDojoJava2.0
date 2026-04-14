@@ -8,9 +8,11 @@ public class CalculadoraTest {
 
         calculadora.somaDoisNumeros();
         System.out.println("Finalizando o calculo do sistem operacional ");
+
         calculadora.subitrairDoisNumeros();
         System.out.println("finalizando subtração");
-        calculadora.multiplicarDoisNumeros(60,50);
+
+        calculadora.multiplicarDoisNumeros(60,50 );
         System.out.println("Multiplicação finalizada");
 
     }
