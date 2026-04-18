@@ -29,14 +29,13 @@ public class Anime {
         return tipo;
     }
 
-
     public void setEpisodios(int episodios) {
         this.episodios = episodios;
     }
 
     public int getEpisodios(int i) {
+
         return episodios;
     }
-
 
 }
