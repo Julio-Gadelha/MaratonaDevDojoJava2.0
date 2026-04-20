@@ -11,6 +11,7 @@ public class Anime {
         }
     }
     public void setNome(String nome) {
+
         this.nome = nome;
     }
 
