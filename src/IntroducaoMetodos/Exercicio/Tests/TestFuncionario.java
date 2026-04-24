@@ -1,6 +1,6 @@
-package Exercicio.Tests;
+package IntroducaoMetodos.Exercicio.Tests;
 
-import Exercicio.Funcionario;
+import IntroducaoMetodos.Exercicio.Funcionario;
 
 public class TestFuncionario {
     public static void main(String[] args) {

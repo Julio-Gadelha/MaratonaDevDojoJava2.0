@@ -1,4 +1,4 @@
-package Exercicios;
+package Construtores.Exercicios;
 
 public class Associacao {
     public static void main(String[] args) {

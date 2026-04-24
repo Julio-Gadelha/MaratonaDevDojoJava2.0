@@ -1,4 +1,4 @@
-package Exercicio;
+package IntroducaoMetodos.Exercicio;
 
 public class Funcionario {
     public String nome;

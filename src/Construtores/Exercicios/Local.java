@@ -1,4 +1,4 @@
-package Exercicios;
+package Construtores.Exercicios;
 
 public class Local {
     private String endereco;

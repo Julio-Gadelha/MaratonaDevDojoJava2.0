@@ -1,4 +1,4 @@
-package Exercicios;
+package Construtores.Exercicios;
 
 public class Professor {
     private String nome;
