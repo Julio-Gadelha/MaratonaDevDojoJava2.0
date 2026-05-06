@@ -1,4 +1,4 @@
-package AssociacaoHeranca;
+package HerencaDominio.AssociacaoHeranca;
 
 public class Pessoa {
     private String nome;

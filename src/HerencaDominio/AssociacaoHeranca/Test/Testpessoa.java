@@ -1,7 +1,7 @@
-package AssociacaoHeranca.Test;
+package HerencaDominio.AssociacaoHeranca.Test;
 
-import AssociacaoHeranca.Endereco;
-import AssociacaoHeranca.Pessoa;
+import HerencaDominio.AssociacaoHeranca.Endereco;
+import HerencaDominio.AssociacaoHeranca.Pessoa;
 
 public class Testpessoa {
     public static void main(String[] args) {

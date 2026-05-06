@@ -1,5 +1,5 @@
-package AssociacaoHeranca.Test;
-import AssociacaoHeranca.Pessoa;
+package HerencaDominio.AssociacaoHeranca.Test;
+import HerencaDominio.AssociacaoHeranca.Pessoa;
 
 
 public class Funcionario extends Pessoa {
