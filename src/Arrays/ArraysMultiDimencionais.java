@@ -8,8 +8,6 @@ public class ArraysMultiDimencionais {
      dias[0][1] = 35;
      dias[0][2] = 33;
 
-
-
      dias[1][0] = 39;
      dias[1][1] = 33;
      dias[1][2] = 34;

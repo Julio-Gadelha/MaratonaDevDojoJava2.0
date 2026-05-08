@@ -1,9 +1,8 @@
 package TiposPrimitivos;
 
 public class TiposPrimitivos {
-
     public static void main(String[] args) {
-        // Tipos de primitivos
+        // Tipos de primitivos para usar ao decorrer do JAVA
         // int,double,float,char,byte,short,long,boolean
         int age = 34;
         double salary = 10000.00;
@@ -13,7 +12,5 @@ public class TiposPrimitivos {
         short number2 = 98;
         boolean or = true;
         long numeroGrande = 492849;
-        //todos os tipos de variavel onde usamos para armazenar dados
-
     }
 }

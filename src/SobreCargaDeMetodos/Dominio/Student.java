@@ -27,7 +27,5 @@ public class Student {
             return;
         }
         System.out.println("Nota invalida");
-
-
     }
 }

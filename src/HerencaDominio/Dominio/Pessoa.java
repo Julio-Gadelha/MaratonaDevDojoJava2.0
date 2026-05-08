@@ -12,8 +12,6 @@ public class Pessoa {
         this(nome);
     }
 
-
-
     public void imprime() {
         System.out.println(this.nome);
         System.out.println(this.cpf);

@@ -5,12 +5,10 @@ public class Anime {
     private String tipo;
     private int episodios;
 
-
     public void imprimi() {
         System.out.println(this.nome);
         System.out.println(this.tipo);
         System.out.println(this.episodios);
-
     }
 
     public void setNome(String nome) {
@@ -34,7 +32,6 @@ public class Anime {
     }
 
     public int getEpisodios(int i) {
-
         return episodios;
     }
 

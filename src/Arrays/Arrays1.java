@@ -9,6 +9,5 @@ public class Arrays1 {
         idades[2] = 10;
         System.out.println("How old  are you, number one : " + idades[0]);
 
-
     }
 }
