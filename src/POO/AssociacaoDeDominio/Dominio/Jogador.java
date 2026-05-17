@@ -1,4 +1,6 @@
-package AssociacaoDeDominio.Dominio;
+package POO.AssociacaoDeDominio.Dominio;
+
+import java.sql.Time;
 
 public class Jogador {
     private String nome;
@@ -8,7 +10,7 @@ public class Jogador {
     public void imprime(){
         System.out.println(this.nome);
         if(time != null){
-            System.out.println(time.getNome());
+            System.out.println(time.getTime());
         }
 
     }
