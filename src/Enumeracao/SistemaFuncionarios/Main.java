@@ -1,4 +1,4 @@
-package SistemaFuncionarios;
+package Enumeracao.SistemaFuncionarios;
 
 public class Main {
     public static void main(String[] args) {

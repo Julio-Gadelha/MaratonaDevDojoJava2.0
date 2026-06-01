@@ -1,4 +1,4 @@
-package SistemaFuncionarios;
+package Enumeracao.SistemaFuncionarios;
 
 public abstract class Funcionario {
     private String nome;

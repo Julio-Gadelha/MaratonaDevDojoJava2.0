@@ -1,4 +1,4 @@
-package Enumeracao;
+package Enumeracao.Client;
 
 public enum TipoPagamento {
     DEBITO {
@@ -14,6 +14,5 @@ public enum TipoPagamento {
     };
 
     public abstract double calcularDesconto(double valor);
-
 
 }

@@ -1,4 +1,4 @@
-package SistemaFuncionarios;
+package Enumeracao.SistemaFuncionarios;
 
 public class Desenvolvedor  extends Funcionario implements Autenticavel{
 

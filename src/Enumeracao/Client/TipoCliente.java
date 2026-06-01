@@ -1,4 +1,4 @@
-package Enumeracao;
+package Enumeracao.Client;
 
 public enum TipoCliente {
 

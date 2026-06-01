@@ -1,4 +1,4 @@
-package SistemaFuncionarios;
+package Enumeracao.SistemaFuncionarios;
 
 public class Gerente  extends  Funcionario implements Autenticavel{
 

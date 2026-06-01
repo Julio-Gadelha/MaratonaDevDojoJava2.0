@@ -2,8 +2,7 @@ package TiposPrimitivos;
 
 public class TiposPrimitivos {
     public static void main(String[] args) {
-        // Tipos de primitivos para usar ao decorrer do JAVA
-        // int,double,float,char,byte,short,long,boolean
+        // Tipos de primitivos para usar ao decorrer do JAVA.
         int age = 34;
         double salary = 10000.00;
         float salary2 = 30000.00F;
