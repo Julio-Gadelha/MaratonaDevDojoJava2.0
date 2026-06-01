@@ -12,7 +12,6 @@ public class Pessoa {
         this.quantidade = quantidade;
         TipoPagamento = tipoPagamento;
     }
-
     @Override
     public String toString() {
         return "Produto: " + nomeProduto +
