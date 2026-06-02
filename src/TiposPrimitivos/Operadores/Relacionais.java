@@ -1,7 +1,0 @@
-package TiposPrimitivos.Operadores;
-
-public class Relacionais {
-    public static void main(String[] args) {
-        // < > <= >= == !=
-    }
-}
