@@ -1,4 +1,4 @@
-package ClassesAbstratas;
+package ClassesAbstratas.Empresa;
 
 public abstract class Funcionario {
     protected String nome;

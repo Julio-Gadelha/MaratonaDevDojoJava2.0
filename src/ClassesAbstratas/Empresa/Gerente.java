@@ -1,4 +1,4 @@
-package ClassesAbstratas;
+package ClassesAbstratas.Empresa;
 
 public class Gerente extends Funcionario {
 
