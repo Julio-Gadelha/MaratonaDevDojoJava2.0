@@ -9,7 +9,7 @@ package Interfaces.Transportadora;
         public double calcularFrete(double peso) {
             double frete = peso * getRegiao().getMultiplicador() * 2.0;
             if (peso > 100) {
-                frete = frete * 0.90; // 10% de desconto
+                frete = frete * 0.90;
                 System.out.println("Desconto de 10% aplicado!");
             }
             return frete;

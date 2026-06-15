@@ -16,3 +16,4 @@ public class TestTransportadora {
         System.out.printf("📦 Frete para %.1fkg: R$%.2f%n", peso, moto.calcularFrete(peso));
     }
 }
+
