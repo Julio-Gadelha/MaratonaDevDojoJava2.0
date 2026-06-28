@@ -12,8 +12,9 @@ public class CalculadoraTest {
         calculadora.subitrairDoisNumeros();
         System.out.println("finalizando subtração");
 
-        calculadora.multiplicarDoisNumeros(60,50 );
+        calculadora.multiplicarDoisNumeros(60, 50);
         System.out.println("Multiplicação finalizada");
-
+        calculadora.multiplicarDoisNumeros(60, 4);
+        System.out.println("Calculando ");
     }
 }
