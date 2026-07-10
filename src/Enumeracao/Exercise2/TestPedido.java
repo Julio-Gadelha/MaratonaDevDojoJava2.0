@@ -5,16 +5,16 @@ public class TestPedido {
         StatusPedido status = StatusPedido.ENVIADO;
         switch (status) {
             case PENDENTE:
-                System.out.println("Pedido pendente");
+                System.out.println("Pedido pendente !");
                 break;
             case PROCESSANDO:
-                System.out.println("Pedido está sendo processado");
+                System.out.println("Pedido está sendo processado !");
                 break;
             case ENVIADO:
-                System.out.println("Pedido saiu para entrega");
+                System.out.println("Pedido saiu para entrega !");
                 break;
             case ENTREGUE:
-                System.out.println("Pedido entregue");
+                System.out.println("Pedido !");
                 break;
         }
     }
