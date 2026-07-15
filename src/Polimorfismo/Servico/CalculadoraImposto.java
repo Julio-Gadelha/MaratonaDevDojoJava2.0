@@ -6,7 +6,7 @@ import Polimorfismo.Dominio.Produto;
 
 public class CalculadoraImposto  {
     public static  void calcularImposto(Produto produto){
-        System.out.println("Relatório de imposto do computador");
+        System.out.println("Relatório de imposto do Produto");
         double imposto = produto.calcularImposto();
         System.out.println(" Produto  =  " + produto.getNome());
         System.out.println("Valor = " + produto.getValor());
